@@ -1,7 +1,7 @@
 struct-type
 ===========
 
-[![Chat on Gitter](https://img.shields.io/gitter/room/origamitower/discussion.svg?style=flat-square)](https://gitter.im/origamitower/discussion)[![Build status](https://img.shields.io/travis/origamitower/struct-type/master.svg?style=flat-square)](https://travis-ci.org/origamitower/struct-type)[![NPM version](https://img.shields.io/npm/v/struct-type.svg?style=flat-square)](https://npmjs.org/package/struct-type)[![Dependencies status](https://img.shields.io/david/origamitower/struct-type.svg?style=flat-square)](https://david-dm.org/origamitower/struct-type)![Licence](https://img.shields.io/npm/l/refinable.svg?style=flat-square&label=licence)![Stability: Stable](https://img.shields.io/badge/stability-experimental-oranga.svg?style=flat-square)
+[![Chat on Gitter](https://img.shields.io/gitter/room/origamitower/discussion.svg?style=flat-square)](https://gitter.im/origamitower/discussion)[![Build status](https://img.shields.io/travis/origamitower/struct-type/master.svg?style=flat-square)](https://travis-ci.org/origamitower/struct-type)[![NPM version](https://img.shields.io/npm/v/struct-type.svg?style=flat-square)](https://npmjs.org/package/struct-type)[![Dependencies status](https://img.shields.io/david/origamitower/struct-type.svg?style=flat-square)](https://david-dm.org/origamitower/struct-type)![Licence](https://img.shields.io/npm/l/struct-type.svg?style=flat-square&label=licence)![Stability: Stable](https://img.shields.io/badge/stability-experimental-oranga.svg?style=flat-square)
 
 A restricted Struct type for JavaScript.
 
@@ -42,16 +42,16 @@ const line = Line.make({ start: p1, end: p2 });
 
 ## Installation
 
-The officially supported way of getting Refinable is through [npm][]:
+The officially supported way of getting struc-type is through [npm][]:
 
     $ npm install struct-type
 
 > **NOTE**
 >
 > If you don't have npm, you'll need to install [Node.js][] in your
-> system before installing Refinable.
+> system before installing struct-type.
 
-A tool like [Browserify][] or [Webpack][] can be used to run Refinable in
+A tool like [Browserify][] or [Webpack][] can be used to run struct-type in
 platforms that don't implement Node-style modules, like the Browser.
 
 [Node.js]: https://nodejs.org/
@@ -62,7 +62,7 @@ platforms that don't implement Node-style modules, like the Browser.
 
 ## Supported platforms
 
-Refinable is supported in all platforms that support ECMAScript 5.
+struct-type is supported in all platforms that support ECMAScript 5.
 
 
 > **NOTE**  
