@@ -1,7 +1,12 @@
 struct-type
 ===========
 
-[![Chat on Gitter](https://img.shields.io/gitter/room/origamitower/discussion.svg?style=flat-square)](https://gitter.im/origamitower/discussion)[![Build status](https://img.shields.io/travis/origamitower/struct-type/master.svg?style=flat-square)](https://travis-ci.org/origamitower/struct-type)[![NPM version](https://img.shields.io/npm/v/struct-type.svg?style=flat-square)](https://npmjs.org/package/struct-type)[![Dependencies status](https://img.shields.io/david/origamitower/struct-type.svg?style=flat-square)](https://david-dm.org/origamitower/struct-type)![Licence](https://img.shields.io/npm/l/refinable.svg?style=flat-square&label=licence)![Stability: Stable](https://img.shields.io/badge/stability-experimental-oranga.svg?style=flat-square)
+[![Chat on Gitter](https://img.shields.io/gitter/room/origamitower/discussion.svg?style=flat-square)](https://gitter.im/origamitower/discussion)
+[![Build status](https://img.shields.io/travis/origamitower/struct-type/master.svg?style=flat-square)](https://travis-ci.org/origamitower/struct-type)
+[![NPM version](https://img.shields.io/npm/v/struct-type.svg?style=flat-square)](https://npmjs.org/package/struct-type)
+[![Dependencies status](https://img.shields.io/david/origamitower/struct-type.svg?style=flat-square)](https://david-dm.org/origamitower/struct-type)
+![Licence](https://img.shields.io/npm/l/refinable.svg?style=flat-square&label=licence)
+![Stability: Stable](https://img.shields.io/badge/stability-experimental-oranga.svg?style=flat-square)
 
 A restricted Struct type for JavaScript.
 
