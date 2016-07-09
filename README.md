@@ -42,7 +42,7 @@ const line = Line.make({ start: p1, end: p2 });
 
 ## Installation
 
-The officially supported way of getting struc-type is through [npm][]:
+The officially supported way of getting struct-type is through [npm][]:
 
     $ npm install struct-type
 
